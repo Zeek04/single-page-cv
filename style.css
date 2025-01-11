@@ -6,12 +6,13 @@ body {
   align-items: center;
   min-height: 100vh;
   background-color: #f0f0f0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #page {
   width: 90%;
   max-width: 1100px;
-  max-height: fit-content; 
+  max-height: fit-content;
   background-color: #fff;
   border: 3px solid black;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
@@ -19,9 +20,9 @@ body {
   box-sizing: border-box;
 }
 
-.cv{
-    border-top: 4px solid black;
-    border-bottom: 4px solid black;
+.cv {
+  border-top: 4px solid black;
+  border-bottom: 4px solid black;
 }
 
 .cv h1 {
@@ -53,24 +54,24 @@ body {
   margin-top: -25px;
 }
 
-.personal-info p{
-    line-height: 10px;
+.personal-info p {
+  line-height: 10px;
 }
 
-.personal-info p a{
-    color: black;
+.personal-info p a {
+  color: black;
 }
 
-.skill-list ul{
-    line-height: 35px;
+.skill-list ul {
+  line-height: 35px;
 }
 
-.experience ul{
-    line-height: 45px;
+.experience ul {
+  line-height: 45px;
 }
 
-.socials a{
-    color: black;
-    font-size: 25px;
-    font-weight: 500;
+.socials a {
+  color: black;
+  font-size: 25px;
+  font-weight: 500;
 }
